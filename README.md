@@ -26,6 +26,8 @@ I don't know yet, but for the start I'll put together some RDF documents myself 
 
 Hm. Either I'm going to use our in-house cluster at DERI or EC2 will have to do the job. Let's see. For now, all I need is my laptop.
 
+Yahoo's [YCSB](https://github.com/brianfrankcooper/YCSB) looks like a promising start as well.
+
 ## License
 
 The software and other artefacts (such as configurations, etc.) provided in the repository are in the Public Domain.
