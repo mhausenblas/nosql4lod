@@ -26,7 +26,7 @@ I don't know yet, but for the start I'll put together some RDF documents myself 
 
 Hm. Either I'm going to use our in-house cluster at DERI or EC2 will have to do the job. Let's see. For now, all I need is my laptop.
 
-Yahoo's [YCSB](https://github.com/brianfrankcooper/YCSB) looks like a promising start as well.
+Yahoo's [YCSB](https://github.com/brianfrankcooper/YCSB) looks like a promising start as well. Alex Popescu has gathered pointers to some [platform-specific](http://nosql.mypopescu.com/post/734816227/nosql-benchmarks-and-performance-evaluations) NoSQL benchmarks as well.
 
 ## License
 
