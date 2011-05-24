@@ -28,6 +28,8 @@ Hm. Either I'm going to use our in-house cluster at DERI or EC2 will have to do 
 
 Yahoo's [YCSB](https://github.com/brianfrankcooper/YCSB) looks like a promising start as well. Alex Popescu has gathered pointers to some [platform-specific](http://nosql.mypopescu.com/post/734816227/nosql-benchmarks-and-performance-evaluations) NoSQL benchmarks as well.
 
+It might make sense to go for a [trace-based methodology](http://portal.acm.org/citation.cfm?id=822466) by leveraging the LOD log data we've gathered for our WebSci10 paper [Learning from Linked Open Data Usage: Patterns & Metrics](http://journal.webscience.org/302/).
+
 ## License
 
 The software and other artefacts (such as configurations, etc.) provided in the repository are in the Public Domain.
